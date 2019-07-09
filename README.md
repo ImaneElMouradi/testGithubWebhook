@@ -1,2 +1,2 @@
 # testGithubWebhook
-Learning more about Webhooks. Tsting Github webhook.
+Learning more about Webhooks. Testing Github webhook.
